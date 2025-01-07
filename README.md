@@ -2,7 +2,7 @@
 
 **Project descriptions**
 
-**1- Airbnb prediction using machine learning**
+**1- Airbnb price prediction using machine learning**
 
 This project aimed at predicting the price of Airbnb listings using various categorical and numeric variables. Three different models were used namely linear regression 
 with lasso selection, decision tree and random forest. Finally, these models were evaluated and compared to select the best model by comparing RMSE across training and
